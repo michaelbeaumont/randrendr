@@ -5,7 +5,7 @@ import System.IO (stdin)
 import qualified Data.Text.IO as TIO
 import qualified Text.Parsec as P
 import Diagrams.Prelude
-import Diagrams.Backend.Cairo.CmdLine
+import Diagrams.Backend.SVG.CmdLine
 
 import Randrendr
 import Parse

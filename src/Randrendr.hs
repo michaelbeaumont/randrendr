@@ -7,7 +7,7 @@ import Control.Monad
 import qualified Data.Text as T
 
 import Diagrams.Prelude
-import Diagrams.Backend.Cairo
+import Diagrams.Backend.SVG
 
 import Types
 

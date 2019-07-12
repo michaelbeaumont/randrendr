@@ -22,7 +22,7 @@ library
                      , parsec
                      , diagrams-core
                      , diagrams-lib
-                     , diagrams-cairo
+                     , diagrams-svg
   default-language:    Haskell2010
 
 executable randrendr
@@ -33,7 +33,7 @@ executable randrendr
                      , text
                      , parsec
                      , diagrams-lib
-                     , diagrams-cairo
+                     , diagrams-svg
                      , randrendr
   default-language:    Haskell2010
 
